@@ -7,7 +7,7 @@ I'm Enzo Araujo Duarte, a Front End developer from Colatina, Espírito Santo.
 - 🛠️ Currently, I'm honing my skills in Javascript, React Hook Forms, and Next.js.
 - 🧑🏽‍💻 Passionate about Technology and Programming
 
-## 👨🏻‍💻 &nbsp;Skills ##
+## 🤹🏽 &nbsp;Skills ##
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,5 +21,5 @@ I'm Enzo Araujo Duarte, a Front End developer from Colatina, Espírito Santo.
   <a href = "mailto:araujoduarteenzo@gail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+## 🫥 &nbsp;Stats ##
 [![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoAraujoDuarte)](https://github.com/EnzoAraujoDuarte/github-readme-stats)
