@@ -20,3 +20,6 @@ I'm Enzo Araujo Duarte, a Front End developer from Colatina, Espírito Santo.
   <a href="https://www.linkedin.com/in/enzo-araujo-duarte-4669b5260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:araujoduarteenzo@gail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+[![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoAraujoDuarte)](https://github.com/EnzoAraujoDuarte/github-readme-stats)
