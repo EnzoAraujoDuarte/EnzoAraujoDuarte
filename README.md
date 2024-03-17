@@ -1,4 +1,4 @@
-### Hey there, welcome!👋
+# Hey there, welcome!👋
 I'm Enzo Araujo Duarte, a Front End developer from Colatina, Espírito Santo.
 
 ## About Me
