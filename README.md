@@ -21,5 +21,5 @@ I'm Enzo Araujo Duarte, a Front End developer from Colatina, Espírito Santo.
   <a href = "mailto:araujoduarteenzo@gail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 🫥 &nbsp;Stats ##
+## 🪪 &nbsp;Stats ##
 [![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoAraujoDuarte)](https://github.com/EnzoAraujoDuarte/github-readme-stats)
